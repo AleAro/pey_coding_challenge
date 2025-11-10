@@ -32,7 +32,7 @@ Ver [backend/README.md](backend/README.md) para más detalles.
 
 -  **URL de producción**: https://main.d3btk2h9ntwif2.amplifyapp.com
 -  **Repositorio**: https://github.com/AleAro/pey_coding_challenge
--  **Analytics Notebook**: `.ipynb_checkpoints/analytics.ipynb`
+-  **Analytics Notebook**: `analytics.ipynb`
 -  **Infraestructura CDK**: `/backend`
 
 ## Stack Tecnológico
