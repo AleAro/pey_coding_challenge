@@ -1,0 +1,51 @@
+{
+  "navbar": {
+    "appName": "Notes",
+    "viewNotes": "View Notes",
+    "createNote": "Create Note"
+  },
+  "home": {
+    "title": "Your Notes",
+    "subtitle": "View and filter your notes by sentiment"
+  },
+  "create": {
+    "title": "New Note",
+    "subtitle": "Capture your thoughts and feelings"
+  },
+  "form": {
+    "noteTextLabel": "What's on your mind?",
+    "noteTextPlaceholder": "Start writing...",
+    "sentimentLabel": "How are you feeling?",
+    "creating": "Creating...",
+    "createNote": "Create Note",
+    "errorCreating": "Error creating note. Please try again.",
+    "updating": "Updating...",
+    "updateNote": "Update Note",
+    "errorUpdating": "Error updating note. Please try again."
+  },
+  "sentiments": {
+    "happy": "Happy",
+    "sad": "Sad",
+    "neutral": "Neutral",
+    "angry": "Angry",
+    "all": "All"
+  },
+  "notesList": {
+    "filterTitle": "Filter by Sentiment",
+    "loadingNotes": "Loading notes...",
+    "noNotes": "No notes to display",
+    "createFirstNote": "Create your first note!",
+    "loading": "Loading...",
+    "loadMore": "Load More",
+    "errorLoading": "Error loading notes"
+  },
+  "noteCard": {
+    "edit": "Edit",
+    "delete": "Delete",
+    "confirmDelete": "Are you sure you want to delete this note?",
+    "errorDeleting": "Error deleting note. Please try again.",
+    "editNote": "Edit Note",
+    "cancel": "Cancel"
+  }
+}
+

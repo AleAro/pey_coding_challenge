@@ -1,0 +1,51 @@
+{
+  "navbar": {
+    "appName": "Notas",
+    "viewNotes": "Ver Notas",
+    "createNote": "Crear Nota"
+  },
+  "home": {
+    "title": "Tus Notas",
+    "subtitle": "Ve y filtra tus notas por sentimiento"
+  },
+  "create": {
+    "title": "Nueva Nota",
+    "subtitle": "Captura tus pensamientos y sentimientos"
+  },
+  "form": {
+    "noteTextLabel": "¿Qué tienes en mente?",
+    "noteTextPlaceholder": "Comienza a escribir...",
+    "sentimentLabel": "¿Cómo te sientes?",
+    "creating": "Creando...",
+    "createNote": "Crear Nota",
+    "errorCreating": "Error al crear la nota. Por favor intenta de nuevo.",
+    "updating": "Actualizando...",
+    "updateNote": "Actualizar Nota",
+    "errorUpdating": "Error al actualizar la nota. Por favor intenta de nuevo."
+  },
+  "sentiments": {
+    "happy": "Feliz",
+    "sad": "Triste",
+    "neutral": "Neutral",
+    "angry": "Enojado",
+    "all": "Todos"
+  },
+  "notesList": {
+    "filterTitle": "Filtrar por Sentimiento",
+    "loadingNotes": "Cargando notas...",
+    "noNotes": "No hay notas para mostrar",
+    "createFirstNote": "¡Crea tu primera nota!",
+    "loading": "Cargando...",
+    "loadMore": "Cargar Más",
+    "errorLoading": "Error al cargar las notas"
+  },
+  "noteCard": {
+    "edit": "Editar",
+    "delete": "Eliminar",
+    "confirmDelete": "¿Estás seguro de que quieres eliminar esta nota?",
+    "errorDeleting": "Error al eliminar la nota. Por favor intenta de nuevo.",
+    "editNote": "Editar Nota",
+    "cancel": "Cancelar"
+  }
+}
+
