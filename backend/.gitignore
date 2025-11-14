@@ -1,8 +1,14 @@
+# Ignore all JS except specific files/folders we care about
 *.js
 !jest.config.js
+
+# Keep AppSync JS resolvers in version control
+!resolvers/
+!resolvers/**/*.js
+
 *.d.ts
+
 node_modules
 
-# CDK asset staging directory
 .cdk.staging
 cdk.out
